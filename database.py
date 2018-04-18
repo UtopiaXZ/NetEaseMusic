@@ -8,7 +8,7 @@ class Mysql:
         self._config={
             'host': 'localhost',
             'user': 'root',
-            'password': 'xz',
+            'password': 'test',
             'port': 3306,
             'database': 'NetMusic',
             'charset':'utf8'
